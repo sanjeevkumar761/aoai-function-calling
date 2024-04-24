@@ -1,6 +1,7 @@
-# aoai-function-calling
-Azure OpenAI Function Calling  
+# Azure OpenAI Function Calling
+Examples to use function calling with Azure OpenAI GPT-4 model.  
 
+Example 1: Invokes SQL Stored Procedure on Azure SQL database using Function Calling.  
 
 You can use VS Code to run this.  
 
