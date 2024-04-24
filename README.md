@@ -12,6 +12,8 @@ AZURE_OPENAI_ENDPOINT=
 AZURE_OPENAI_API_KEY=  
 SQL_DB_USER=  
 SQL_DB_PASSWORD=  
+SQL_DB_URL=  
+SQL_DB_NAME=  
 
 3. Use pip install to install the required moduels such as openai, dotenv, pyodbc etc.
 
